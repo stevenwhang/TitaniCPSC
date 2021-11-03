@@ -10,7 +10,7 @@ CONTENTS OF THIS FILE:
 INTRODUCTION
 
 This project aims to analyze the Titanic dataset from Kaggle: https://www.kaggle.com/c/titanic  
-This project can be used as a practice on how to use different plots and statistics. Here, we explore different hypotheses from the data using numerous exploratory data analysis.
+This project can be used as a practice on how to use different plots and statistics. Here, we explore different hypotheses from the data using exploratory data analysis.
 
 REQUIREMENTS
 
